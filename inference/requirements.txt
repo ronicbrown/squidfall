@@ -1,0 +1,10 @@
+azure-identity
+ag-ui-langgraph
+copilotkit
+fastapi
+langchain
+langchain-openai
+langchain-mcp-adapters
+langgraph
+pydantic
+uvicorn
